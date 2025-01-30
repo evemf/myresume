@@ -1,0 +1,398 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Skill</span> Set",
+            "description": "Exploring the diverse range of skills I've acquired and developed:"
+        },
+        "es": {
+            "title": "Conjunto de <span class='text-primary'>Habilidades</span>",
+            "description": "Explorando la diversidad de habilidades que he adquirido y desarrollado:"
+        },
+        "ca": {
+            "title": "Conjunt de <span class='text-primary'>Competències</span>",
+            "description": "Explorant la diversitat d'habilitats que he adquirit i desenvolupat:"
+        }
+    },
+
+    "subcategories": [
+        {
+            "id": "habilities",
+            "type": "grid",
+            "progress": null,
+            "faIcon": "fa-solid fa-square",
+            "locales": {
+                "en": {"title": null}
+            }
+        },
+
+        {
+            "id": "programming",
+            "type": "grid",
+            "progress": "number",
+            "faIcon": "fa fa-code",
+            "locales": {
+                "en": {"title": "Programming"},
+                "es": {"title": "Programación"},
+                "ca": {"title": "Programació"}
+            }
+        },
+
+        {
+            "id": "languages",
+            "type": "list",
+            "progress": {"0": "beginner", "20": "rockie", "40": "intermediate", "60": "advanced", "80": "fluent", "100": "native"},
+            "faIcon": "fa fa-language",
+            "locales": {
+                "en": {"title": "Languages"},
+                "es": {"title": "Idiomas"},
+                "ca": {"title": "Idiomes"}
+            }
+        },
+
+        {
+            "id": "extra",
+            "type": "grid",
+            "progress": null,
+            "faIcon": "fa fa-marker",
+            "locales": {
+                "en": {"title": "Bonus Skills"},
+                "es": {"title": "Habilidades Adicionales"},
+                "ca": {"title": "Habilitats Adicionals"}
+            }
+        }
+    ],
+
+    "items": {
+        "habilities": [
+    {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-mobile-alt",
+        "value": null,
+        "locales": {
+            "en": {
+                "title": "Responsive Layouts",
+                "description": "Expertise in creating responsive and mobile-first designs, ensuring compatibility across various devices and screen sizes."
+            },
+            "es": {
+                "title": "Diseños Responsivos",
+                "description": "Experto en la creación de diseños responsivos y orientados a móviles, asegurando compatibilidad en distintos dispositivos y tamaños de pantalla."
+            },
+            "ca": {
+                "title": "Dissenys Responsius",
+                "description": "Expert en crear dissenys responsius i orientats a mòbils, garantint la compatibilitat amb diferents dispositius i mides de pantalla."
+            }
+        }
+    },
+    {
+        "imageIconUrl": null, 
+        "faIcon": "fab fa-docker",
+        "value": null, 
+        "locales": {
+            "en": {
+                "title": "Docker",
+                "description": "Docker is an open-source platform that automates the deployment, scaling, and management of containerized applications."
+            },
+            "es": {
+                "title": "Docker",
+                "description": "Docker es una plataforma de código abierto que automatiza el despliegue, escalado y gestión de aplicaciones en contenedores."
+            },
+            "ca": {
+                "title": "Docker",
+                "description": "Docker és una plataforma de codi obert que automatitza el desplegament, l'escalat i la gestió d'aplicacions en contenidors."
+            }
+        }
+    },
+    {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-code",
+        "value": null,
+        "locales": {
+            "en": {
+                "title": "Code Versioning (Git)",
+                "description": "Skilled in using Git for version control, managing repositories, and collaborating effectively with teams."
+            },
+            "es": {
+                "title": "Control de Versiones (Git)",
+                "description": "Competente en el uso de Git para control de versiones, gestión de repositorios y colaboración en equipo."
+            },
+            "ca": {
+                "title": "Control de Versions (Git)",
+                "description": "Competent en l'ús de Git per al control de versions, la gestió de repositoris i la col·laboració en equip."
+            }
+        }
+    },
+    {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-database",
+        "value": null,
+        "locales": {
+            "en": {
+                "title": "Basic Database Management",
+                "description": "Proficient in working with basic databases such as MySQL, focusing on front-end data consumption."
+            },
+            "es": {
+                "title": "Gestión Básica de Bases de Datos",
+                "description": "Competente en el trabajo con bases de datos básicas como MySQL, con enfoque en el consumo de datos desde el front-end."
+            },
+            "ca": {
+                "title": "Gestió Bàsica de Bases de Dades",
+                "description": "Competent en treballar amb bases de dades bàsiques com MySQL, amb enfocament en el consum de dades des del front-end."
+            }
+        }
+    },
+    {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-file-alt",
+        "value": null,
+        "locales": {
+            "en": {
+                "title": "Microsoft Office Suite",
+                "description": "Proficient in using Microsoft Word, Excel, PowerPoint, and other Office tools for documentation, reporting, and presentations."
+            },
+            "es": {
+                "title": "Suite de Microsoft Office",
+                "description": "Competente en el uso de Microsoft Word, Excel, PowerPoint y otras herramientas de Office para documentación, reportes y presentaciones."
+            },
+            "ca": {
+                "title": "Suite de Microsoft Office",
+                "description": "Competent en l'ús de Microsoft Word, Excel, PowerPoint i altres eines d'Office per a documentació, informes i presentacions."
+            }
+        }
+    },
+    {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-drafting-compass",
+        "value": null,
+        "locales": {
+            "en": {
+                "title": "Figma, Photoshop & Canva",
+                "description": "Proficient in using Figma, Photoshop, and Canva for UI/UX design, asset creation, and web design, ensuring seamless integration of design with front-end development workflows."
+            },
+            "es": {
+                "title": "Figma, Photoshop y Canva",
+                "description": "Competente en el uso de Figma, Photoshop y Canva para diseño de interfaces, creación de activos y diseño web, asegurando una integración fluida entre el diseño y los flujos de trabajo del desarrollo front-end."
+            },
+            "ca": {
+                "title": "Figma, Photoshop i Canva",
+                "description": "Competent en l'ús de Figma, Photoshop i Canva per al disseny d'interfícies, creació d'actius i disseny web, assegurant una integració fluïda entre el disseny i els fluxos de treball del desenvolupament front-end."
+            }
+        }
+    },    
+    {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-globe",
+        "value": null,
+        "locales": {
+            "en": {
+                "title": "Web Performance Optimization",
+                "description": "Skilled in optimizing website performance by reducing load times, improving asset delivery, and ensuring a smooth user experience."
+            },
+            "es": {
+                "title": "Optimización del Rendimiento Web",
+                "description": "Habilidad para optimizar el rendimiento de sitios web mediante la reducción de tiempos de carga y mejora de entrega de recursos."
+            },
+            "ca": {
+                "title": "Optimització del Rendiment Web",
+                "description": "Habilitat per optimitzar el rendiment de llocs web mitjançant la reducció de temps de càrrega i millora de la lliurament de recursos."
+            }
+        }
+    }
+        ],
+
+
+        "programming": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-html5",
+                "value": 95,
+                "locales": {
+                    "en": {"title": "HTML 5", "description": "Experience Time: 8 years"},
+                    "es": {"title": "HTML 5", "description": "Experiencia: 8 años"},
+                    "ca": {"title": "HTML 5", "description": "Experiència : 8 anys"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-css3-alt",
+                "value": 90,
+                "locales": {
+                    "en": {"title": "CSS 3", "description": "Experience Time: 8 years"},
+                    "es": {"title": "CSS 3", "description": "Experiencia: 8 años"},
+                    "ca": {"title": "CSS 3", "description": "Experiència : 8 anys"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-sass",
+                "value": 65,
+                "locales": {
+                    "en": {"title": "SASS/SCSS", "description": "Experience Time: 6 years"},
+                    "es": {"title": "SASS/SCSS", "description": "Experiencia: 6 años"},
+                    "ca": {"title": "SASS/SCSS", "description": "Experiència : 6 anys"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-js-square",
+                "value": 85,
+                "locales": {
+                    "en": {"title": "JavaScript", "description": "Experience Time: 8 years"},
+                    "es": {"title": "JavaScript", "description": "Experiencia: 8 años"},
+                    "ca": {"title": "JavaScript", "description": "Experiència : 8 anys"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-vuejs",
+                "value": 70,
+                "locales": {
+                    "en": {"title": "Vue 3", "description": "Experience Time: 2 years"},
+                    "es": {"title": "Vue 3", "description": "Experiencia: 2 años"},
+                    "ca": {"title": "Vue 3", "description": "Experiència : 2 anys"}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-reactjs",
+                "value": 50,
+                "locales": {
+                    "en": {"title": "ReactJS", "description": "Experience Time: 1 year"},
+                    "es": {"title": "ReactJS", "description": "Experiencia: 1 año"},
+                    "ca": {"title": "ReactJS", "description": "Experiència : 1 any"}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-angular",
+                "value": 50,
+                "locales": {
+                    "en": {"title": "Angular", "description": "Experience Time: 2 years"},
+                    "es": {"title": "Angular", "description": "Experiencia: 2 años"},
+                    "ca": {"title": "Angular", "description": "Experiència : 2 anys"}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-wordpress",
+                "value": 80,
+                "locales": {
+                    "en": {"title": "Wordpress", "description": "Experience Time: 4 years"},
+                    "es": {"title": "Wordpress", "description": "Experiencia: 4 años"},
+                    "ca": {"title": "Wordpress", "description": "Experiència : 4 anys"}
+                }
+            }
+        ],
+
+        "languages": [
+            {
+                "imageIconUrl": "images/flags/cat.png",
+                "faIcon": null,
+                "value": 90,
+                "locales": {
+                    "en": {"title": "Català", "description": "Native speaker with excellent communication and writing skills."},
+                    "es": {"title": "Català", "description": "Hablante nativo con excelentes habilidades de comunicación y escritura."},
+                    "ca": {"title": "Català", "description": "Locuteur natif avec d'excellentes compétences en communication et en écriture."}
+                }
+            },
+
+            {
+                "imageIconUrl": "images/flags/es.png",
+                "faIcon": null,
+                "value": 90,
+                "locales": {
+                    "en": {"title": "Spanish", "description": "Native speaker with excellent communication and writing skills."},
+                    "es": {"title": "Español", "description": "Hablante nativo con excelentes habilidades de comunicación y escritura."},
+                    "ca": {"title": "Espanyol", "description": "Parlant nadiu amb excel·lents habilitats de comunicació i escriptura"}
+                }
+            },
+
+            {
+                "imageIconUrl": "images/flags/en.png",
+                "faIcon": null,
+                "value": 60,
+                "locales": {
+                    "en": {"title": "English", "description": "Intermediate proficiency in Vietnamese language; can hold conversations and understand written text."},
+                    "es": {"title": "Inglés", "description": "Competencia intermedia en el idioma vietnamita; puede mantener conversaciones y comprender texto escrito."},
+                    "ca": {"title": "Anglés", "description": "Competència intermèdia en l'idioma vietnamita; pot mantenir converses i comprendre textos escrits."}
+                }
+            }
+        ],
+
+        "extra": [
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "UI/UX Design", "description": "Skilled in creating intuitive and visually engaging user interfaces with a focus on user experience (UX) to optimize usability."},
+                    "es": {"title": "Diseño UI/UX", "description": "Hábil en la creación de interfaces de usuario intuitivas y visualmente atractivas, con enfoque en la experiencia de usuario (UX) para optimizar la usabilidad."},
+                    "ca": {"title": "Disseny UI/UX", "description": "Hàbil en la creació d'interfícies d'usuari intuïtives i visualment atractives, amb enfocament en l'experiència d'usuari (UX) per optimitzar la seva usabilitat."}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "Responsive Design", "description": "Expert in crafting responsive web designs that ensure seamless user experiences across all devices and screen sizes."},
+                    "es": {"title": "Diseño Responsivo", "description": "Experto en crear diseños web responsivos que aseguran una experiencia de usuario fluida en todos los dispositivos y tamaños de pantalla."},
+                    "ca": {"title": "Disseny Responsiu", "description": "Expert en crear dissenys web responsius que asseguren una experiència d'usuari fluida en tots els dispositius i mides d'ecran."}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "Team Collaboration & Agile Methodologies", "description": "Experienced in working in cross-functional teams, using Agile methodologies like Scrum and Kanban to deliver iterative, high-quality products."},
+                    "es": {"title": "Colaboración en Equipo y Metodologías Ágiles", "description": "Experiencia trabajando en equipos multifuncionales, utilizando metodologías ágiles como Scrum y Kanban para entregar productos iterativos y de alta calidad."},
+                    "ca": {"title": "Col·laboració en Equip i Metodologies Àgils", "description": "Experiència treballant en equips multifuncionals, utilitzant metodologies àgils com Scrum i Kanban per lliurar productes iteratius i de gran qualitat."}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "Self-Learning & Continuous Improvement", "description": "Self-motivated with a strong commitment to continuous learning, staying up-to-date with the latest web technologies and industry trends."},
+                    "es": {"title": "Autoaprendizaje y Mejora Continua", "description": "Autodidacta con un fuerte compromiso hacia el aprendizaje continuo, manteniéndose actualizado con las últimas tecnologías web y tendencias del sector."},
+                    "ca": {"title": "Autoaprenentatge i Millora Contínua", "description": "Autodidacte amb un fort compromís envers l'aprenentatge continu, mantenint-se actualitzat amb les últimes tecnologies web i tendències del sector."}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "Cross-Browser Compatibility", "description": "Able to ensure consistent design and functionality across different web browsers, optimizing performance and usability."},
+                    "es": {"title": "Compatibilidad entre Navegadores", "description": "Capaz de garantizar un diseño y funcionalidad consistentes entre diferentes navegadores web, optimizando el rendimiento y la usabilidad."},
+                    "ca": {"title": "Compatibilitat entre Navegadors", "description": "Capaç d'assegurar un disseny i funcionalitat consistents entre diferents navegadors web, optimitzant el rendiment i la usabilitat."}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Progressive Web Apps (PWA)",
+                        "description": "Experienced in developing Progressive Web Apps (PWAs) that offer an app-like experience on the web, providing offline functionality, push notifications, and fast load times."
+                    },
+                    "es": {
+                        "title": "Aplicaciones Web Progresivas (PWA)",
+                        "description": "Experiencia en el desarrollo de Aplicaciones Web Progresivas (PWA) que ofrecen una experiencia similar a la de una aplicación móvil en la web, proporcionando funcionalidad offline, notificaciones push y tiempos de carga rápidos."
+                    },
+                    "ca": {
+                        "title": "Aplicacions Web Progressives (PWA)",
+                        "description": "Experiència en el desenvolupament d'Aplicacions Web Progressives (PWA) que ofereixen una experiència similar a la d'una aplicació mòbil a la web, proporcionant funcionalitat offline, notificacions push i temps de càrrega ràpids."
+                    }
+                }
+            }
+        ]
+
+    }
+}

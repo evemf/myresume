@@ -1,0 +1,340 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Skill</span> Set",
+            "description": "Exploring the diverse range of skills I've acquired and developed:"
+        },
+        "es": {
+            "title": "Conjunto de <span class='text-primary'>Habilidades</span>",
+            "description": "Explorando la diversidad de habilidades que he adquirido y desarrollado:"
+        },
+        "ca": {
+            "title": "Conjunt de <span class='text-primary'>Competències</span>",
+            "description": "Explorant la diversitat d'habilitats que he adquirit i desenvolupat:"
+        }
+    },
+
+    "subcategories": [
+        {
+            "id": "habilities",
+            "type": "grid",
+            "progress": null,
+            "faIcon": "fa-solid fa-square",
+            "locales": {
+                "en": {"title": null}
+            }
+        },
+
+        {
+            "id": "programming",
+            "type": "grid",
+            "progress": "number",
+            "faIcon": "fa fa-code",
+            "locales": {
+                "en": {"title": "Programming"},
+                "es": {"title": "Programación"},
+                "ca": {"title": "Programació"}
+            }
+        },
+
+        {
+            "id": "languages",
+            "type": "list",
+            "progress": {"0": "beginner", "20": "rookie", "40": "intermediate", "60": "advanced", "80": "fluent", "100": "native"},
+            "faIcon": "fa fa-language",
+            "locales": {
+                "en": {"title": "Languages"},
+                "es": {"title": "Idiomas"},
+                "ca": {"title": "Idiomes"}
+            }
+        },
+
+        {
+            "id": "extra",
+            "type": "grid",
+            "progress": null,
+            "faIcon": "fa fa-marker",
+            "locales": {
+                "en": {"title": "Bonus Skills"},
+                "es": {"title": "Habilidades Adicionales"},
+                "ca": {"title": "Habilitats Adicionals"}
+            }
+        }
+    ],
+
+    "items": {
+        "habilities": [
+    {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-mobile-alt",
+        "value": null,
+        "locales": {
+            "en": {
+                "title": "Responsive Layouts",
+                "description": "Expertise in creating responsive and mobile-first designs, ensuring compatibility across various devices and screen sizes."
+            },
+            "es": {
+                "title": "Diseños Responsivos",
+                "description": "Experto en la creación de diseños responsivos y orientados a móviles, asegurando compatibilidad en distintos dispositivos y tamaños de pantalla."
+            },
+            "ca": {
+                "title": "Dissenys Responsius",
+                "description": "Expert en crear dissenys responsius i orientats a mòbils, garantint la compatibilitat amb diferents dispositius i mides de pantalla."
+            }
+        }
+    },
+    {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-code",
+        "value": null,
+        "locales": {
+            "en": {
+                "title": "Code Versioning (Git)",
+                "description": "Skilled in using Git for version control, managing repositories, and collaborating effectively with teams."
+            },
+            "es": {
+                "title": "Control de Versiones (Git)",
+                "description": "Competente en el uso de Git para control de versiones, gestión de repositorios y colaboración en equipo."
+            },
+            "ca": {
+                "title": "Control de Versions (Git)",
+                "description": "Competent en l'ús de Git per al control de versions, la gestió de repositoris i la col·laboració en equip."
+            }
+        }
+    },
+    {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-database",
+        "value": null,
+        "locales": {
+            "en": {
+                "title": "Basic Database Management",
+                "description": "Proficient in working with basic databases such as MySQL and MongoDB, focusing on front-end data consumption."
+            },
+            "es": {
+                "title": "Gestión Básica de Bases de Datos",
+                "description": "Competente en el trabajo con bases de datos básicas como MySQL y MongoDB, con enfoque en el consumo de datos desde el front-end."
+            },
+            "ca": {
+                "title": "Gestió Bàsica de Bases de Dades",
+                "description": "Competent en treballar amb bases de dades bàsiques com MySQL i MongoDB, amb enfocament en el consum de dades des del front-end."
+            }
+        }
+    },
+    {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-file-alt",
+        "value": null,
+        "locales": {
+            "en": {
+                "title": "Microsoft Office Suite",
+                "description": "Proficient in using Microsoft Word, Excel, PowerPoint, and other Office tools for documentation, reporting, and presentations."
+            },
+            "es": {
+                "title": "Suite de Microsoft Office",
+                "description": "Competente en el uso de Microsoft Word, Excel, PowerPoint y otras herramientas de Office para documentación, reportes y presentaciones."
+            },
+            "ca": {
+                "title": "Suite de Microsoft Office",
+                "description": "Competent en l'ús de Microsoft Word, Excel, PowerPoint i altres eines d'Office per a documentació, informes i presentacions."
+            }
+        }
+    },
+    {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-drafting-compass",
+        "value": null,
+        "locales": {
+            "en": {
+                "title": "Figma, Photoshop & Canva",
+                "description": "Proficient in using Figma, Photoshop, and Canva for UI/UX design, asset creation, and web design, ensuring seamless integration of design with front-end development workflows."
+            },
+            "es": {
+                "title": "Figma, Photoshop y Canva",
+                "description": "Competente en el uso de Figma, Photoshop y Canva para diseño de interfaces, creación de activos y diseño web, asegurando una integración fluida entre el diseño y los flujos de trabajo del desarrollo front-end."
+            },
+            "ca": {
+                "title": "Figma, Photoshop i Canva",
+                "description": "Competent en l'ús de Figma, Photoshop i Canva per al disseny d'interfícies, creació d'actius i disseny web, assegurant una integració fluïda entre el disseny i els fluxos de treball del desenvolupament front-end."
+            }
+        }
+    },    
+    {
+        "imageIconUrl": null,
+        "faIcon": "fas fa-globe",
+        "value": null,
+        "locales": {
+            "en": {
+                "title": "Web Performance Optimization",
+                "description": "Skilled in optimizing website performance by reducing load times, improving asset delivery, and ensuring a smooth user experience."
+            },
+            "es": {
+                "title": "Optimización del Rendimiento Web",
+                "description": "Habilidad para optimizar el rendimiento de sitios web mediante la reducción de tiempos de carga y mejora de entrega de recursos."
+            },
+            "ca": {
+                "title": "Optimització del Rendiment Web",
+                "description": "Habilitat per optimitzar el rendiment de llocs web mitjançant la reducció de temps de càrrega i millora de la lliurament de recursos."
+            }
+        }
+    }
+        ],
+
+
+        "programming": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-html5",
+                "value": 95,
+                "locales": {
+                    "en": {"title": "HTML 5", "description": "Experience Time: 8 years"},
+                    "es": {"title": "HTML 5", "description": "Experiencia: 8 años"},
+                    "ca": {"title": "HTML 5", "description": "Experiència : 8 anys"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-css3-alt",
+                "value": 90,
+                "locales": {
+                    "en": {"title": "CSS 3", "description": "Experience Time: 8 years"},
+                    "es": {"title": "CSS 3", "description": "Experiencia: 8 años"},
+                    "ca": {"title": "CSS 3", "description": "Experiència : 8 anys"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-sass",
+                "value": 65,
+                "locales": {
+                    "en": {"title": "SASS/SCSS", "description": "Experience Time: 6 years"},
+                    "es": {"title": "SASS/SCSS", "description": "Experiencia: 6 años"},
+                    "ca": {"title": "SASS/SCSS", "description": "Experiència : 6 anys"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-js-square",
+                "value": 85,
+                "locales": {
+                    "en": {"title": "JavaScript", "description": "Experience Time: 8 years"},
+                    "es": {"title": "JavaScript", "description": "Experiencia: 8 años"},
+                    "ca": {"title": "JavaScript", "description": "Experiència : 8 anys"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-vuejs",
+                "value": 100,
+                "locales": {
+                    "en": {"title": "Vue 3", "description": "Experience Time: 2 years"},
+                    "es": {"title": "Vue 3", "description": "Experiencia: 2 años"},
+                    "ca": {"title": "Vue 3", "description": "Experiència : 2 anys"}
+                }
+            }
+        ],
+
+        "languages": [
+            {
+                "imageIconUrl": "images/flags/cat.png",
+                "faIcon": null,
+                "value": 90,
+                "locales": {
+                    "en": {"title": "Català", "description": "Native speaker with excellent communication and writing skills."},
+                    "es": {"title": "Català", "description": "Hablante nativo con excelentes habilidades de comunicación y escritura."},
+                    "ca": {"title": "Català", "description": "Parlant nadiu amb excel·lents habilitats de comunicació i escriptura."}
+                }
+            },
+
+            {
+                "imageIconUrl": "images/flags/es.png",
+                "faIcon": null,
+                "value": 90,
+                "locales": {
+                    "en": {"title": "Spanish", "description": "Native speaker with excellent communication and writing skills."},
+                    "es": {"title": "Español", "description": "Hablante nativo con excelentes habilidades de comunicación y escritura."},
+                    "ca": {"title": "Espanyol", "description": "Parlant nadiu amb excel·lents habilitats de comunicació i escriptura."}
+                }
+            },
+
+            {
+                "imageIconUrl": "images/flags/en.png",
+                "faIcon": null,
+                "value": 60,
+                "locales": {
+                    "en": {"title": "English", "description": "Advanced proficiency in English (CAE level); can hold fluent conversations and understand complex written and spoken texts."},
+                    "es": {"title": "Inglés", "description": "Competencia avanzada en inglés (nivel CAE); puede mantener conversaciones fluidas y comprender textos orales y escritos complejos."},
+                    "ca": {"title": "Anglés", "description": "Competència avançada en anglès (nivell CAE); pot mantenir converses fluides i comprendre textos orals i escrits complexos."}
+                }
+            }
+        ],
+
+        "extra": [
+    {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+            "en": {"title": "Modular Front-End Development", "description": "Experienced in building scalable and maintainable front-end architectures with a focus on modular design, reusable components, and separation of concerns using modern frameworks like React, Angular, and Vue."},
+            "es": {"title": "Desarrollo Front-End Modular", "description": "Experiencia en la construcción de arquitecturas front-end escalables y mantenibles, con enfoque en diseño modular, componentes reutilizables y separación de responsabilidades usando frameworks modernos como React, Angular y Vue."},
+            "ca": {"title": "Desenvolupament Front-End Modular", "description": "Experiència en la construcció d'arquitectures front-end escalables i mantenibles, amb enfocament en disseny modular, components reutilitzables i separació de responsabilitats utilitzant frameworks moderns com React, Angular i Vue."}
+        }
+    },
+    {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+            "en": {"title": "Responsive Web Development", "description": "Skilled in creating fully responsive and adaptive web applications that deliver optimal user experiences across all devices, ensuring fast load times and excellent usability."},
+            "es": {"title": "Desarrollo Web Responsivo", "description": "Hábil en la creación de aplicaciones web completamente responsivas y adaptativas que ofrecen experiencias de usuario óptimas en todos los dispositivos, asegurando tiempos de carga rápidos y excelente usabilidad."},
+            "ca": {"title": "Desenvolupament Web Responsiu", "description": "Hàbil en la creació d'aplicacions web completament responsives i adaptatives que ofereixen experiències d'usuari òptimes en tots els dispositius, assegurant temps de càrrega ràpids i excel·lent usabilitat."}
+        }
+    },
+    {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+            "en": {"title": "Scalable Web Applications", "description": "Proficient in developing scalable web applications that can grow efficiently, handling increasing traffic and complex functionality using best practices in architecture and cloud technologies."},
+            "es": {"title": "Aplicaciones Web Escalables", "description": "Competente en el desarrollo de aplicaciones web escalables que pueden crecer de manera eficiente, manejando un aumento del tráfico y funcionalidades complejas mediante buenas prácticas de arquitectura y tecnologías en la nube."},
+            "ca": {"title": "Aplicacions Web Escalables", "description": "Competent en el desenvolupament d'aplicacions web escalables que poden créixer de manera eficient, gestionant un augment del trànsit i funcionalitats complexes mitjançant bones pràctiques d'arquitectura i tecnologies al núvol."}
+        }
+    },
+    {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+            "en": {"title": "Cross-Platform Compatibility", "description": "Experienced in building applications that ensure consistent functionality and appearance across all platforms (web, mobile, desktop) and devices, using responsive frameworks and media queries."},
+            "es": {"title": "Compatibilidad Multiplataforma", "description": "Experiencia en la creación de aplicaciones que garantizan funcionalidad y apariencia consistentes en todas las plataformas (web, móvil, escritorio) y dispositivos, utilizando frameworks responsivos y consultas de medios."},
+            "ca": {"title": "Compatibilitat Multiplataforma", "description": "Experiència en la creació d'aplicacions que garanteixen funcionalitat i aparença consistents a totes les plataformes (web, mòbil, escriptori) i dispositius, utilitzant frameworks responsius i consultes de mitjans."}
+        }
+    },
+    {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+            "en": {"title": "Clean Code and Best Practices", "description": "Strong advocate for writing clean, maintainable, and well-documented code. Follow best practices like code splitting, lazy loading, and version control using Git to ensure efficient development."},
+            "es": {"title": "Código Limpio y Mejores Prácticas", "description": "Fuerte defensor de escribir código limpio, mantenible y bien documentado. Sigo las mejores prácticas como la división de código, carga diferida y control de versiones usando Git para garantizar un desarrollo eficiente."},
+            "ca": {"title": "Codi Net i Millors Pràctiques", "description": "Fort defensor d'escriure codi net, mantenible i ben documentat. Sigo les millors pràctiques com la divisió de codi, càrrega a demanda i control de versions utilitzant Git per garantir un desenvolupament eficient."}
+        }
+    },
+    {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+            "en": {"title": "API Integration and Web Services", "description": "Proficient in integrating third-party APIs and web services into web applications to enhance functionality, including RESTful and GraphQL APIs."},
+            "es": {"title": "Integración de APIs y Servicios Web", "description": "Competente en integrar APIs y servicios web de terceros en aplicaciones web para mejorar la funcionalidad, incluyendo APIs RESTful y GraphQL."},
+            "ca": {"title": "Integració d'APIs i Serveis Web", "description": "Competent en integrar APIs i serveis web de tercers en aplicacions web per millorar la funcionalitat, incloent APIs RESTful i GraphQL."}
+        }
+    }
+        ]
+
+    }
+}
