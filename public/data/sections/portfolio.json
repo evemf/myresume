@@ -5,7 +5,7 @@
             "description": "Explore a selection of my recent projects and creative works."
         },
         "es": {
-            "title": "Mi <span class='text-primary'>Portafolio</span>",
+            "title": "Mi <span class='text-primary'>Portfolio</span>",
             "description": "Explora una selección de mis proyectos recientes y trabajos creativos."
         },
         "ca": {
@@ -438,12 +438,12 @@
                         "tags": ["Portfolio", "Vue.js", "Vite", "Vue Router", "Sass", "Responsive", "SEO"]
                     },
                     "es": {
-                        "description": "<b>My Resume</b> es un portafolio online personal construido con Vue.js, Vite, Vue Router y Sass. Muestra mi educación, experiencia laboral y proyectos que he desarrollado. Totalmente responsivo y optimizado para SEO, este proyecto es una forma dinámica e interactiva de presentar mi trayectoria profesional.",
-                        "tags": ["Portafolio", "Vue.js", "Vite", "Vue Router", "Sass", "Responsive", "SEO"]
+                        "description": "<b>My Resume</b> es un portfolio online personal construido con Vue.js, Vite, Vue Router y Sass. Muestra mi educación, experiencia laboral y proyectos que he desarrollado. Totalmente responsivo y optimizado para SEO, este proyecto es una forma dinámica e interactiva de presentar mi trayectoria profesional.",
+                        "tags": ["Portfolio", "Vue.js", "Vite", "Vue Router", "Sass", "Responsive", "SEO"]
                     },
                     "ca": {
                         "description": "<b>My Resume</b> és un portafoli en línia personal construït amb Vue.js, Vite, Vue Router i Sass. Mostra la meva educació, experiència laboral i projectes que he desenvolupat. Totalment responsiu i optimitzat per a SEO, aquest projecte és una manera dinàmica i interactiva de presentar la meva trajectòria professional.",
-                        "tags": ["Portafoli", "Vue.js", "Vite", "Vue Router", "Sass", "Responsive", "SEO"]
+                        "tags": ["Portfoli", "Vue.js", "Vite", "Vue Router", "Sass", "Responsive", "SEO"]
                     }
                 }
             },
