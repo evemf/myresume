@@ -430,7 +430,7 @@
                 "title": "My Resume",
                 "logoUrl": "images/portfolio/project-myResume.png",
                 "links": [
-                    {"faIcon": "fa-solid fa-globe", "href": "https://github.com/evemf/", "id": "MyResume github"}
+                    {"faIcon": "fa-solid fa-globe", "href": "https://github.com/evemf/myresume", "id": "MyResume github"}
                 ],
                 "locales": {
                     "en": {
