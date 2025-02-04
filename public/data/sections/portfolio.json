@@ -381,8 +381,6 @@
                 "title": "Mambo Pool Polo",
                 "logoUrl": "images/portfolio/project-poloMamboPool.png",
                 "links": [
-                    {"faIcon": "fa-brands fa-apple", "href": "https://apple.com", "id": "App Store"},
-                    {"faIcon": "fa-brands fa-google-play", "href": "https://googleplay.com", "id": "Google Play"}
                 ],
                 "locales": {
                     "en": {
@@ -404,8 +402,6 @@
                 "title": "Abacat Polo",
                 "logoUrl": "images/portfolio/project-abacatPolo.png",
                 "links": [
-                    {"faIcon": "fa-brands fa-apple", "href": "https://apple.com", "id": "App Store"},
-                    {"faIcon": "fa-brands fa-google-play", "href": "https://googleplay.com", "id": "Google Play"}
                 ],
                 "locales": {
                     "en": {
@@ -444,6 +440,28 @@
                     "ca": {
                         "description": "<b>My Resume</b> és un portafoli en línia personal construït amb Vue.js, Vite, Vue Router i Sass. Mostra la meva educació, experiència laboral i projectes que he desenvolupat. Totalment responsiu i optimitzat per a SEO, aquest projecte és una manera dinàmica i interactiva de presentar la meva trajectòria professional.",
                         "tags": ["Portfoli", "Vue.js", "Vite", "Vue Router", "Sass", "Responsive", "SEO"]
+                    }
+                }
+            },
+            {
+                "id": "adriaMonroig",
+                "title": "Adrià Monroig - Actor",
+                "logoUrl": "images/portfolio/project-monroig.png",
+                "links": [
+                    {"faIcon": "fa-solid fa-globe", "href": "https://adriamonroig.com/", "id": "Adrià Monroig - Actor"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>Adrià Monroig - Actor</b> is a personal portfolio built with WordPress and ACF, designed to showcase his acting career, projects, and professional trajectory. The website provides a dynamic and interactive way to explore his work, performances, and contact information. Fully responsive and SEO-optimized.",
+                        "tags": ["Portfolio", "WordPress", "PHP", "ACF", "Responsive", "SEO"]
+                    },
+                    "es": {
+                        "description": "<b>Adrià Monroig - Actor</b> es un portfolio online diseñado para mostrar su trayectoria como actor, sus obras y proyectos profesionales. Desarrollado con WordPress y ACF, la web ofrece una experiencia interactiva para descubrir su trabajo, visualizar su recorrido en el mundo del espectáculo y facilitar el contacto. Totalmente responsivo y optimizado para SEO.",
+                        "tags": ["Portfolio", "WordPress", "PHP", "ACF", "Responsive", "SEO"]
+                    },
+                    "ca": {
+                        "description": "<b>Adrià Monroig - Actor</b> és un portafoli en línia dissenyat per mostrar la seva trajectòria com a actor, les seves obres i projectes professionals. Desenvolupat amb WordPress i ACF, el web ofereix una experiència interactiva per descobrir la seva feina, visualitzar el seu recorregut en el món de l'espectacle i facilitar el contacte. Totalment responsiu i optimitzat per a SEO.",
+                        "tags": ["Portfolio", "WordPress", "PHP", "ACF", "Responsive", "SEO"]
                     }
                 }
             },
