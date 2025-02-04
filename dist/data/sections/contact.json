@@ -1,0 +1,31 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Contact</span> Me",
+            "description": "Don't hesitate to get in touch with me for any enquiry or proposal.",
+            "subtitle": "Or...",
+            "subtitleDescription": "If you prefer, you can reach out to me through the following options:"
+        },
+        "es": {
+            "title": "<span class='text-primary'>Contácta</span>me",
+            "description": "No dudes en ponerte en contacto conmigo para cualquier duda o propuesta.",
+            "subtitle": "O...",
+            "subtitleDescription": "Si prefieres, puedes ponerte en contacto conmigo a través de las siguientes opciones:"
+        },
+        "ca": {
+            "title": "<span class='text-primary'>Contacta</span>'m",
+            "description": "No dubtis en posar-te en contacte amb mi per qualsevol dubte o proposta.",
+            "subtitle": "O...",
+            "subtitleDescription": "Si ho prefereixes, pots posar-te en contacte amb mi a través de les següents opcions:"
+        }
+    },
+
+    "items": [
+        "@link{profile.contact.address}",
+        "@link{profile.contact.phone}",
+        "@link{profile.contact.email}",
+        "@link{profile.contact.linkedin}",
+        "@link{profile.contact.facebook}",
+        "@link{profile.contact.instagram}"
+    ]
+}
