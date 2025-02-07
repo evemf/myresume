@@ -492,7 +492,7 @@
                 "title": "Lliga del Vallès",
                 "logoUrl": "images/portfolio/project-ldv.png",
                 "links": [
-                    {"faIcon": "fa-solid fa-globe", "href": "https://www.qwines.co.uk/", "id": "Lliga del Vallès"}
+                    {"faIcon": "fa-solid fa-globe", "href": "https://github.com/evemf/ldv2022", "id": "Lliga del Vallès"}
                 ],
                 "locales": {
                     "en": {
