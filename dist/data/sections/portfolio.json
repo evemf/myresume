@@ -1,0 +1,514 @@
+{
+    "locales": {
+        "en": {
+            "title": "My <span class='text-primary'>Portfolio</span>",
+            "description": "Explore a selection of my recent projects and creative works."
+        },
+        "es": {
+            "title": "Mi <span class='text-primary'>Portfolio</span>",
+            "description": "Explora una selección de mis proyectos recientes y trabajos creativos."
+        },
+        "ca": {
+            "title": "El meu <span class='text-primary'>Portfoli</span>",
+            "description": "Explora una selecció dels meus projectes recents i treballs creatius."
+        }
+    },
+
+    "subcategories": [
+        {
+            "id": "development",
+            "locales": {
+                "en": {"title": "Web Development"},
+                "es": {"title": "Web Development"},
+                "ca": {"title": "Web Development"}
+            }
+        },
+        {
+            "id": "design",
+            "locales": {
+                "en": {"title": "Graphic Design"},
+                "es": {"title": "Diseño Gráfico"},
+                "ca": {"title": "Disseny Gràfic"}
+            }
+        },
+        {
+            "id": "other",
+            "locales": {
+                "en": {"title": "Other"},
+                "es": {"title": "Otros"},
+                "ca": {"title": "Altres"}
+            }
+        }
+    ],
+
+    "items": {
+        "design": [
+            {
+                "id": "SiwaSt",
+                "title": "Siwa ST",
+                "logoUrl": "images/portfolio/project-siwa.png",
+                "links": [
+                    {"faIcon": "fa-brands fa-instagram", "href": "https://www.instagram.com/siwa_st/", "id": "Siwa ST"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>Siwa ST</b> is a store specializing in handmade baby clothing and accessories. With a focus on quality craftsmanship and unique designs, each item is carefully crafted to provide comfort and style for little ones. Perfect for parents looking for special and artisanal products for their babies.",
+                        "tags": ["store", "baby", "handmade", "clothing", "accessories"]
+                    },
+                    "es": {
+                        "description": "<b>Siwa ST</b> es una tienda especializada en ropa y artículos para bebé hechos a mano. Con un enfoque en la calidad artesanal y diseños únicos, cada pieza está cuidadosamente elaborada para brindar comodidad y estilo a los más pequeños. Ideal para padres que buscan productos especiales y artesanales para sus bebés.",
+                        "tags": ["tienda", "bebé", "hecho a mano", "ropa", "accesorios"]
+                    },
+                    "ca": {
+                        "description": "<b>Siwa ST</b> és una botiga especialitzada en roba i articles per a nadons fets a mà. Amb un enfocament en la qualitat artesanal i dissenys únics, cada peça està curosament elaborada per oferir comoditat i estil als més petits. Ideal per a pares que busquen productes especials i artesanals per als seus nadons.",
+                        "tags": ["botiga", "nadó", "fet a mà", "roba", "accessoris"]
+                    }
+                }
+            },
+
+            {
+                "id": "pooltreros",
+                "title": "Pooltreros",
+                "logoUrl": "images/portfolio/project-pooltreros.png",
+                "links": [],
+                "locales": {
+                    "en": {
+                        "description": "<b>Pooltreros</b> is the logo for a pool team known for their unpredictable luck, where every shot is a surprise. Whether competing in tournaments or just having fun, their success often comes down to good fortune.",
+                        "tags": ["logo", "blackball", "pool", "team", "sports", "luck"]
+                    },
+                    "es": {
+                        "description": "<b>Pooltreros</b> es el logotipo de un equipo de billar conocido por su suerte impredecible, donde cada tiro es una sorpresa. Ya sea compitiendo en torneos o simplemente divirtiéndose, su éxito depende a menudo de la buena fortuna.",
+                        "tags": ["logo", "blackball", "billar", "equipo", "deportes", "suerte"]
+                    },
+                    "ca": {
+                        "description": "<b>Pooltreros</b> és el logotip d'un equip de billar conegut per la seva sort imprevisible, on cada tir és una sorpresa. Ja sigui competint en tornejos o simplement passant-s'ho bé, el seu èxit sovint depèn de la bona fortuna.",
+                        "tags": ["logotip", "blackball", "billar", "equip", "esports", "sort"]
+                    }
+                }
+            },
+
+            {
+                "id": "trickshooters",
+                "title": "Trickshooters",
+                "logoUrl": "images/portfolio/project-trickshooters.png",
+                "links": [
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>Trickshooters</b> is the logo for a team of skilled players known for their impressive trickshots. Mastering the art of billiards, they bring creativity and precision to every shot, making each game an exciting spectacle.",
+                        "tags": ["logo", "trickshots", "billiards", "pool", "team"]
+                    },
+                    "es": {
+                        "description": "<b>Trickshooters</b> es el logotipo de un equipo de jugadores expertos en trucos de billar. Dominando el arte del billar, aportan creatividad y precisión a cada tiro, convirtiendo cada partido en un espectáculo emocionante.",
+                        "tags": ["logo", "trucos de billar", "billar", "equipo"]
+                    },
+                    "ca": {
+                        "description": "<b>Trickshooters</b> és el logotip d'un equip de jugadors experts en trucs de billar. Dominant l'art del billar, aporten creativitat i precisió a cada tir, convertint cada partit en un espectacle emocionant.",
+                        "tags": ["logotip", "trucs de billar", "billar", "equip"]
+                    }
+                }
+            },
+
+
+            {
+                "id": "mamboPool",
+                "title": "Mambo Pool",
+                "logoUrl": "images/portfolio/project-mamboPool.png",
+                "links": [
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>Mambo Pool</b> is the logo for a fun-loving pool team, focused on enjoying the game. Their energy, laughter, and good vibes make every match a memorable experience, full of casual play and fun.",
+                        "tags": ["logo", "pool", "team", "fun", "sports"]
+                    },
+                    "es": {
+                        "description": "<b>Mambo Pool</b> es el logotipo de un equipo de billar que se divierte jugando. Su energía, risas y buen rollo hacen de cada partido una experiencia memorable, llena de juego relajado y diversión.",
+                        "tags": ["logo", "billar", "equipo", "diversión", "deportes"]
+                    },
+                    "ca": {
+                        "description": "<b>Mambo Pool</b> és el logotip d'un equip de billar que es diverteix jugant. La seva energia, rialles i bon rotllo fan que cada partit sigui una experiència memorable, plena de joc relaxat i diversió.",
+                        "tags": ["logotip", "billar", "equip", "diversió", "esports"]
+                    }
+                }
+            },
+            {
+                "id": "pimPamPool",
+                "title": "Pim Pam Pool",
+                "logoUrl": "images/portfolio/project-pimpampool.png",
+                "links": [
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>Pim Pam Pool</b> is the logo for a fun-loving pool team, focused on enjoying the game. Their energy, laughter, and good vibes make every match a memorable experience, full of casual play and fun.",
+                        "tags": ["logo", "pool", "team", "fun", "sports"]
+                    },
+                    "es": {
+                        "description": "<b>Pim Pam Pool</b> es el logotipo de un equipo de billar que se divierte jugando. Su energía, risas y buen rollo hacen de cada partido una experiencia memorable, llena de juego relajado y diversión.",
+                        "tags": ["logo", "billar", "equipo", "diversión", "deportes"]
+                    },
+                    "ca": {
+                        "description": "<b>Pim Pam Pool</b> és el logotip d'un equip de billar que es diverteix jugant. La seva energia, rialles i bon rotllo fan que cada partit sigui una experiència memorable, plena de joc relaxat i diversió.",
+                        "tags": ["logotip", "billar", "equip", "diversió", "esports"]
+                    }
+                }
+            },
+            {
+                "id": "cbp",
+                "title": "Catalonia Blackball Party",
+                "logoUrl": "images/portfolio/project-cbp.png",
+                "links": [
+                    {"faIcon": "fa-solid fa-globe", "href": "https://www.cataloniablackballparty.com", "id": "Catalonia Blackball Party"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>Catalonia Blackball Party</b> is the logo for an international Blackball (pool) festival held in Tarragona, formerly known as Catalonia Pool Festival.",
+                        "tags": ["logo", "festival", "Blackball", "Tarragona"]
+                    },
+                    "es": {
+                        "description": "<b>Catalonia Blackball Party</b> es el logotipo para un festival internacional de Blackball (billar) celebrado en Tarragona, anteriormente conocido como Catalonia Pool Festival.",
+                        "tags": ["logotipo", "festival", "Blackball", "Tarragona"]
+                    },
+                    "ca": {
+                        "description": "<b>Catalonia Blackball Party</b> és el logotip d'un festival internacional de Blackball (billar) celebrat a Tarragona, anteriorment conegut com Catalonia Pool Festival.",
+                        "tags": ["logotip", "festival", "Blackball", "Tarragona"]
+                    }
+                }
+            },
+            {
+                "id": "vicensDrum",
+                "title": "Copa Vicensdrum",
+                "logoUrl": "images/portfolio/project-vicensdrum.png",
+                "links": [
+                    {"faIcon": "fa-solid fa-globe", "href": "https://www.abacat.cat", "id": "Abacat"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>Vicensdrum</b> is the logo for an annual billiards competition in honor of a late colleague, founder of the Abacat association.",
+                        "tags": ["logo", "billiards", "competition", "tribute"]
+                    },
+                    "es": {
+                        "description": "<b>Vicensdrum</b> es el logotipo para una competición anual de billar en honor a un compañero fallecido, fundador de la asociación Abacat.",
+                        "tags": ["logotipo", "billar", "competición", "homenaje"]
+                    },
+                    "ca": {
+                        "description": "<b>Vicensdrum</b> és el logotip per a una competició anual de billar en honor a un company difunt, fundador de l'associació Abacat.",
+                        "tags": ["logotip", "billar", "competició", "homenatge"]
+                    }
+                }
+            },
+            {
+                "id": "vicensFest",
+                "title": "VicensFest",
+                "logoUrl": "images/portfolio/project-vicensfest.png",
+                "links": [
+                    {"faIcon": "fa-solid fa-globe", "href": "https://www.abacat.cat", "id": "Abacat"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>VicensFest</b> is the logo for an annual festival/celebration in honor of a late colleague, founder of Abacat and a beer lover.",
+                        "tags": ["logo", "festival", "tribute", "beer"]
+                    },
+                    "es": {
+                        "description": "<b>VicensFest</b> es el logotipo para un festival/celebración anual en honor a un compañero fallecido, fundador de la asociación Abacat y amante de la cerveza.",
+                        "tags": ["logotipo", "festival", "homenaje", "cerveza"]
+                    },
+                    "ca": {
+                        "description": "<b>VicensFest</b> és el logotip d'un festival/celebració anual en honor a un company difunt, fundador de l'associació Abacat i amant de la cervesa.",
+                        "tags": ["logotip", "festival", "homenatge", "cervesa"]
+                    }
+                }
+            },
+            {
+                "id": "tokaelgos",
+                "title": "Toka el Gos",
+                "logoUrl": "images/portfolio/project-tokaelgos.png",
+                "links": [
+                    {"faIcon": "fa-solid fa-globe", "href": "https://www.tokaelgos.com/ca/", "id": "Web Toka el Gos"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>Toka el Gos</b> is a logo for a pet store, dog grooming, and accessories located in Sant Feliu de Llobregat. For more information, visit <a href='https://www.tokaelgos.com/ca/'>here</a>.",
+                        "tags": ["logo", "pet store", "dog grooming", "accessories", "Sant Feliu de Llobregat"]
+                    },
+                    "es": {
+                        "description": "<b>Toka el Gos</b> es el logotipo de una tienda de mascotas, peluquería canina y accesorios ubicada en Sant Feliu de Llobregat. Para más información, visita <a href='https://www.tokaelgos.com/ca/'>aquí</a>.",
+                        "tags": ["logo", "tienda de mascotas", "peluquería canina", "accesorios", "Sant Feliu de Llobregat"]
+                    },
+                    "ca": {
+                        "description": "<b>Toka el Gos</b> és el logotip d'una botiga de mascotes, perruqueria canina i accessoris situada a Sant Feliu de Llobregat. Per més informació, visita <a href='https://www.tokaelgos.com/ca/'>aquí</a>.",
+                        "tags": ["logotip", "botiga de mascotes", "perruqueria canina", "accessoris", "Sant Feliu de Llobregat"]
+                    }
+                }
+            },
+
+            {
+                "id": "femFoc",
+                "title": "Fem Foc o Fugim",
+                "logoUrl": "images/portfolio/project-femFoc.png",
+                "links": [
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>Fem Foc o Fugim</b> is a logo for a group of falleros from Valencia. This design embodies the vibrant spirit and traditions of the Valencian Fallas festival.",
+                        "tags": ["logo", "falleros", "Valencia", "Fallas festival"]
+                    },
+                    "es": {
+                        "description": "<b>Fem Foc o Fugim</b> es el logotipo de un grupo de falleros de Valencia. Este diseño refleja el espíritu vibrante y las tradiciones de la fiesta de las Fallas de Valencia.",
+                        "tags": ["logo", "falleros", "Valencia", "fiesta de las Fallas"]
+                    },
+                    "ca": {
+                        "description": "<b>Fem Foc o Fugim</b> és el logotip d'un grup de fallers de València. Aquest disseny reflecteix l'esperit vibrant i les tradicions de la festa de les Falles de València.",
+                        "tags": ["logotip", "fallers", "València", "festa de les Falles"]
+                    }
+                }
+            },
+
+            {
+                "id": "lidiareinoso",
+                "title": "Lidia Reinoso",
+                "logoUrl": "images/portfolio/project-lidiaReinoso.png",
+                "links": [
+                    {"faIcon": "fa-solid fa-globe", "href": "https://lidiareinoso.com/", "id": "Lidia Reinoso"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>Lidia Reinoso</b> is a professional hairstylist based in Ripollet, offering a wide range of hair services tailored to your needs. Whether you're looking for a trendy cut, a color transformation, or a special event hairstyle, Lidia ensures that you leave with a fresh, personalized look. Book an appointment and enjoy a unique beauty experience!",
+                        "tags": ["hair", "stylist", "beauty", "Ripollet"]
+                    },
+                    "es": {
+                        "description": "<b>Lidia Reinoso</b> es una peluquera profesional en Ripollet, ofreciendo una amplia gama de servicios capilares adaptados a tus necesidades. Ya sea que busques un corte moderno, una transformación de color o un peinado para una ocasión especial, Lidia se asegura de que salgas con un look fresco y personalizado. ¡Reserva tu cita y disfruta de una experiencia única de belleza!",
+                        "tags": ["peluquería", "estilista", "belleza", "Ripollet"]
+                    },
+                    "ca": {
+                        "description": "<b>Lidia Reinoso</b> és una perruquera professional a Ripollet, oferint una àmplia gamma de serveis capil·lars adaptats a les teves necessitats. Tant si busques un tall modern, una transformació de color o un pentinat per a una ocasió especial, Lidia s'assegura que surtis amb un look fresc i personalitzat. Reserva la teva cita i gaudeix d'una experiència única de bellesa!",
+                        "tags": ["perruqueria", "estilista", "bellesa", "Ripollet"]
+                    }
+                }
+            },
+            {
+                "id": "laTacada23",
+                "title": "La Tacada 2023",
+                "logoUrl": "images/portfolio/project-laTacada23.png",
+                "links": [
+                    {"faIcon": "fa-solid fa-globe", "href": "https://www.abacat.cat/", "id": "Abacat 2023"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>La Tacada 2023</b> is an annual event celebrating the end of the season with awards, community activities, and a chance to bond with friends and family. Join us for a fun-filled day where we honor the best players, share memorable moments, and enjoy a sense of camaraderie. Whether you're a player or a supporter, <b>La Tacada 2023</b> brings everyone together to celebrate the love of the game and the community spirit.",
+                        "tags": ["event", "awards", "community", "celebration"]
+                    },
+                    "es": {
+                        "description": "<b>La Tacada 2023</b> es un evento anual que celebra el final de la temporada con premios, actividades comunitarias y la oportunidad de compartir momentos con amigos y familia. Únete a nosotros en un día lleno de diversión donde homenajeamos a los mejores jugadores, compartimos recuerdos y disfrutamos del sentido de camaradería. Ya seas jugador o seguidor, <b>La Tacada 2023</b> reúne a todos para celebrar el amor por el juego y el espíritu comunitario.",
+                        "tags": ["evento", "premios", "comunidad", "celebración"]
+                    },
+                    "ca": {
+                        "description": "<b>La Tacada 2023</b> és un esdeveniment anual que celebra el final de la temporada amb premis, activitats comunitàries i l'oportunitat de compartir moments amb amics i família. Uneix-te a nosaltres en un dia ple de diversió on homenatgem els millors jugadors, compartim records i gaudim del sentiment de camaraderia. Siguis jugador o seguidor, <b>La Tacada 2023</b> reuneix tothom per celebrar l'amor pel joc i l'esperit comunitari.",
+                        "tags": ["esdeveniment", "premis", "comunitat", "celebració"]
+                    }
+                }
+            },
+            {
+                "id": "poolRubi",
+                "title": "Pool Rubí",
+                "logoUrl": "images/portfolio/project-poolRubi.png",
+                "links": [
+                    {"faIcon": "fa-solid fa-globe", "href": "", "id": "Pool Rubí"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>Pool Rubí</b> Indulge in the world of delectable desserts with <b>Sweet Scoops</b>! This app is a dessert lover's paradise, offering a wide range of mouthwatering recipes, step-by-step instructions, and videos for creating your favorite sweets. From creamy ice creams to irresistible pastries, <b>Sweet Scoops</b> has you covered for all your dessert cravings. Unleash your inner pastry chef and treat yourself to a delightful dessert experience.",
+                        "tags": ["app", "food", "desserts", "recipes"]
+                    },
+                    "es": {
+                        "description": "<b>Pool Rubí</b> Déjate llevar al mundo de los postres deliciosos con <b>Sweet Scoops</b>! Esta aplicación es el paraíso de los amantes de los postres, ofreciendo una amplia gama de recetas deliciosas, instrucciones paso a paso y videos para crear tus dulces favoritos. Desde cremosos helados hasta irresistibles pasteles, <b>Sweet Scoops</b> tiene todo lo que necesitas para satisfacer tus antojos de postres. Libera al chef de repostería que llevas dentro y date un caprichoso y delicioso experiencia de postre.",
+                        "tags": ["aplicación", "comida", "postres", "recetas"]
+                    },
+                    "ca": {
+                        "description":"<b>Pool Rubí</b> Indulgez-vous dans le monde des desserts délectables avec <b>Sweet Scoops</b> ! Cette application est le paradis des amateurs de desserts, offrant une large gamme de recettes alléchantes, d'instructions étape par étape et de vidéos pour créer vos douceurs préférées. Des glaces crémeuses aux pâtisseries irrésistibles, <b>Sweet Scoops</b> vous couvre pour toutes vos envies de dessert. Libérez le chef pâtissier qui sommeille en vous et offrez-vous une délicieuse expérience de dessert.",
+                        "tags": ["application", "nourriture", "desserts", "recettes"]
+                    }
+                }
+            },
+            {
+                "id": "laTacada24",
+                "title": "La Tacada 2024",
+                "logoUrl": "images/portfolio/project-laTacada24.png",
+                "links": [
+                    {"faIcon": "fa-solid fa-globe", "href": "https://www.abacat.cat/", "id": "Abacat 2024"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>La Tacada 2024</b> is an annual event celebrating the end of the season with awards, community activities, and a chance to bond with friends and family. Join us for a fun-filled day where we honor the best players, share memorable moments, and enjoy a sense of camaraderie. Whether you're a player or a supporter, <b>La Tacada 2023</b> brings everyone together to celebrate the love of the game and the community spirit.",
+                        "tags": ["event", "awards", "community", "celebration"]
+                    },
+                    "es": {
+                        "description": "<b>La Tacada 2024</b> es un evento anual que celebra el final de la temporada con premios, actividades comunitarias y la oportunidad de compartir momentos con amigos y familia. Únete a nosotros en un día lleno de diversión donde homenajeamos a los mejores jugadores, compartimos recuerdos y disfrutamos del sentido de camaradería. Ya seas jugador o seguidor, <b>La Tacada 2023</b> reúne a todos para celebrar el amor por el juego y el espíritu comunitario.",
+                        "tags": ["evento", "premios", "comunidad", "celebración"]
+                    },
+                    "ca": {
+                        "description": "<b>La Tacada 2024</b> és un esdeveniment anual que celebra el final de la temporada amb premis, activitats comunitàries i l'oportunitat de compartir moments amb amics i família. Uneix-te a nosaltres en un dia ple de diversió on homenatgem els millors jugadors, compartim records i gaudim del sentiment de camaraderia. Siguis jugador o seguidor, <b>La Tacada 2023</b> reuneix tothom per celebrar l'amor pel joc i l'esperit comunitari.",
+                        "tags": ["esdeveniment", "premis", "comunitat", "celebració"]
+                    }
+                }
+            },
+            {
+                "id": "laTacada25",
+                "title": "La Tacada 2025",
+                "logoUrl": "images/portfolio/project-laTacada25.png",
+                "links": [
+                    {"faIcon": "fa-solid fa-globe", "href": "https://www.abacat.cat/", "id": "Abacat 2025"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>La Tacada 2025</b> is an annual event celebrating the end of the season with awards, community activities, and a chance to bond with friends and family. Join us for a fun-filled day where we honor the best players, share memorable moments, and enjoy a sense of camaraderie. Whether you're a player or a supporter, <b>La Tacada 2023</b> brings everyone together to celebrate the love of the game and the community spirit.",
+                        "tags": ["event", "awards", "community", "celebration"]
+                    },
+                    "es": {
+                        "description": "<b>La Tacada 2025</b> es un evento anual que celebra el final de la temporada con premios, actividades comunitarias y la oportunidad de compartir momentos con amigos y familia. Únete a nosotros en un día lleno de diversión donde homenajeamos a los mejores jugadores, compartimos recuerdos y disfrutamos del sentido de camaradería. Ya seas jugador o seguidor, <b>La Tacada 2023</b> reúne a todos para celebrar el amor por el juego y el espíritu comunitario.",
+                        "tags": ["evento", "premios", "comunidad", "celebración"]
+                    },
+                    "ca": {
+                        "description": "<b>La Tacada 2025</b> és un esdeveniment anual que celebra el final de la temporada amb premis, activitats comunitàries i l'oportunitat de compartir moments amb amics i família. Uneix-te a nosaltres en un dia ple de diversió on homenatgem els millors jugadors, compartim records i gaudim del sentiment de camaraderia. Siguis jugador o seguidor, <b>La Tacada 2023</b> reuneix tothom per celebrar l'amor pel joc i l'esperit comunitari.",
+                        "tags": ["esdeveniment", "premis", "comunitat", "celebració"]
+                    }
+                }
+            }
+        ],
+
+        "other": [
+            {
+                "id": "poloMamboPool",
+                "title": "Mambo Pool Polo",
+                "logoUrl": "images/portfolio/project-poloMamboPool.png",
+                "links": [
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>Mambo Pool Polo</b> Shirt Indulge in the world of delectable desserts with <b>Sweet Scoops</b>! This app is a dessert lover's paradise, offering a wide range of mouthwatering recipes, step-by-step instructions, and videos for creating your favorite sweets. From creamy ice creams to irresistible pastries, <b>Sweet Scoops</b> has you covered for all your dessert cravings. Unleash your inner pastry chef and treat yourself to a delightful dessert experience.",
+                        "tags": ["app", "food", "desserts", "recipes"]
+                    },
+                    "es": {
+                        "description": "<b>Mambo Pool Polo</b> Déjate llevar al mundo de los postres deliciosos con <b>Sweet Scoops</b>! Esta aplicación es el paraíso de los amantes de los postres, ofreciendo una amplia gama de recetas deliciosas, instrucciones paso a paso y videos para crear tus dulces favoritos. Desde cremosos helados hasta irresistibles pasteles, <b>Sweet Scoops</b> tiene todo lo que necesitas para satisfacer tus antojos de postres. Libera al chef de repostería que llevas dentro y date un caprichoso y delicioso experiencia de postre.",
+                        "tags": ["aplicación", "comida", "postres", "recetas"]
+                    },
+                    "ca": {
+                        "description":"<b>Mambo Pool Polo</b> Indulgez-vous dans le monde des desserts délectables avec <b>Sweet Scoops</b> ! Cette application est le paradis des amateurs de desserts, offrant une large gamme de recettes alléchantes, d'instructions étape par étape et de vidéos pour créer vos douceurs préférées. Des glaces crémeuses aux pâtisseries irrésistibles, <b>Sweet Scoops</b> vous couvre pour toutes vos envies de dessert. Libérez le chef pâtissier qui sommeille en vous et offrez-vous une délicieuse expérience de dessert.",
+                        "tags": ["application", "nourriture", "desserts", "recettes"]
+                    }
+                }
+            },
+            {
+                "id": "abacatPolo",
+                "title": "Abacat Polo",
+                "logoUrl": "images/portfolio/project-abacatPolo.png",
+                "links": [
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>Abacat Polo</b> Shirt Step into the electrifying world of rock music with <b>RockVerse</b>! This app is a haven for rock enthusiasts, offering a vast collection of classic and modern rock tracks, curated playlists, and behind-the-scenes content. Whether you're a die-hard fan or just discovering the genre, <b>RockVerse</b> brings you closer to the heart and soul of rock and roll. Crank up the volume and let the rock 'n' roll spirit run wild!",
+                        "tags": ["app", "music", "rock", "entertainment"]
+                    },
+                    "es": {
+                        "description": "<b>Abacat Polo</b> ¡Adéntrate en el electrizante mundo de la música rock con <b>RockVerse</b>! Esta aplicación es un refugio para los entusiastas del rock, ofreciendo una amplia colección de canciones de rock clásicas y modernas, listas de reproducción seleccionadas y contenido detrás de escena. Ya seas un fanático acérrimo o estés descubriendo el género, <b>RockVerse</b> te acerca al corazón y alma del rock and roll. ¡Sube el volumen y deja que el espíritu del rock 'n' roll se desate!",
+                        "tags": ["aplicación", "música", "rock", "entretenimiento"]
+                    },
+                    "ca": {
+                        "description": " <b>Abacat Polo</b> Plongez dans le monde électrisant de la musique rock avec <b>RockVerse</b> ! Cette application est un paradis pour les amateurs de rock, offrant une vaste collection de pistes rock classiques et modernes, des listes de lecture sélectionnées et du contenu en coulisses. Que vous soyez un fan inconditionnel ou que vous découvriez simplement le genre, <b>RockVerse</b> vous rapproche du cœur et de l'âme du rock 'n' roll. Montez le volume et laissez l'esprit du rock 'n' roll s'exprimer !",
+                        "tags": ["application", "musique", "rock", "divertissement"]
+                    }
+                }
+            }
+        ],
+
+        "development": [
+            {
+                "id": "myResume",
+                "title": "My Resume",
+                "logoUrl": "images/portfolio/project-myResume.png",
+                "links": [
+                    {"faIcon": "fa-solid fa-globe", "href": "https://github.com/evemf/myresume", "id": "MyResume github"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>My Resume</b> is a personal online portfolio built with Vue.js, Vite, Vue Router, and Sass. It showcases my education, work experience, and projects I've developed. Fully responsive and optimized for SEO, this project serves as a dynamic and interactive way to present my professional background.",
+                        "tags": ["Portfolio", "Vue.js", "Vite", "Vue Router", "Sass", "Responsive", "SEO"]
+                    },
+                    "es": {
+                        "description": "<b>My Resume</b> es un portfolio online personal construido con Vue.js, Vite, Vue Router y Sass. Muestra mi educación, experiencia laboral y proyectos que he desarrollado. Totalmente responsivo y optimizado para SEO, este proyecto es una forma dinámica e interactiva de presentar mi trayectoria profesional.",
+                        "tags": ["Portfolio", "Vue.js", "Vite", "Vue Router", "Sass", "Responsive", "SEO"]
+                    },
+                    "ca": {
+                        "description": "<b>My Resume</b> és un portafoli en línia personal construït amb Vue.js, Vite, Vue Router i Sass. Mostra la meva educació, experiència laboral i projectes que he desenvolupat. Totalment responsiu i optimitzat per a SEO, aquest projecte és una manera dinàmica i interactiva de presentar la meva trajectòria professional.",
+                        "tags": ["Portfoli", "Vue.js", "Vite", "Vue Router", "Sass", "Responsive", "SEO"]
+                    }
+                }
+            },
+            {
+                "id": "adriaMonroig",
+                "title": "Adrià Monroig - Actor",
+                "logoUrl": "images/portfolio/project-monroig.png",
+                "links": [
+                    {"faIcon": "fa-solid fa-globe", "href": "https://adriamonroig.com/", "id": "Adrià Monroig - Actor"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>Adrià Monroig - Actor</b> is a personal portfolio built with WordPress and ACF, designed to showcase his acting career, projects, and professional trajectory. The website provides a dynamic and interactive way to explore his work, performances, and contact information. Fully responsive and SEO-optimized.",
+                        "tags": ["Portfolio", "WordPress", "PHP", "ACF", "Responsive", "SEO"]
+                    },
+                    "es": {
+                        "description": "<b>Adrià Monroig - Actor</b> es un portfolio online diseñado para mostrar su trayectoria como actor, sus obras y proyectos profesionales. Desarrollado con WordPress y ACF, la web ofrece una experiencia interactiva para descubrir su trabajo, visualizar su recorrido en el mundo del espectáculo y facilitar el contacto. Totalmente responsivo y optimizado para SEO.",
+                        "tags": ["Portfolio", "WordPress", "PHP", "ACF", "Responsive", "SEO"]
+                    },
+                    "ca": {
+                        "description": "<b>Adrià Monroig - Actor</b> és un portafoli en línia dissenyat per mostrar la seva trajectòria com a actor, les seves obres i projectes professionals. Desenvolupat amb WordPress i ACF, el web ofereix una experiència interactiva per descobrir la seva feina, visualitzar el seu recorregut en el món de l'espectacle i facilitar el contacte. Totalment responsiu i optimitzat per a SEO.",
+                        "tags": ["Portfolio", "WordPress", "PHP", "ACF", "Responsive", "SEO"]
+                    }
+                }
+            },
+            {
+                "id": "qwines",
+                "title": "Quality Wines",
+                "logoUrl": "images/portfolio/project-qwines.png",
+                "links": [
+                    {"faIcon": "fa-solid fa-globe", "href": "https://www.qwines.co.uk/", "id": "Quality Wines"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>Quality Wines</b> is an e-commerce website built with WordPress and WooCommerce. It features custom functionalities using ACF Plugin, PHP, and MySQL. The site is fully responsive and optimized for SEO, and it integrates Stripe for secure payments.",
+                        "tags": ["E-commerce", "WordPress", "WooCommerce", "ACF Plugin", "PHP", "MySQL", "Stripe", "Responsive", "SEO"]
+                    },
+                    "es": {
+                        "description": "<b>Quality Wines</b> es una tienda en línea construida con WordPress y WooCommerce. Cuenta con funcionalidades personalizadas mediante el plugin ACF, PHP y MySQL. El sitio es completamente responsivo y optimizado para SEO, además de integrar Stripe para pagos seguros.",
+                        "tags": ["Comercio Electrónico", "WordPress", "WooCommerce", "ACF Plugin", "PHP", "MySQL", "Stripe", "Responsive", "SEO"]
+                    },
+                    "ca": {
+                        "description": "<b>Quality Wines</b> és una botiga en línia construïda amb WordPress i WooCommerce. Té funcionalitats personalitzades mitjançant el connector ACF, PHP i MySQL. El lloc és totalment responsiu i optimitzat per a SEO, i integra Stripe per a pagaments segurs.",
+                        "tags": ["Comerç Electrònic", "WordPress", "WooCommerce", "ACF Plugin", "PHP", "MySQL", "Stripe", "Responsive", "SEO"]
+                    }
+                }
+            },
+            {
+                "id": "ldv",
+                "title": "Lliga del Vallès",
+                "logoUrl": "images/portfolio/project-ldv.png",
+                "links": [
+                    {"faIcon": "fa-solid fa-globe", "href": "https://www.qwines.co.uk/", "id": "Lliga del Vallès"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>Lliga del Vallès</b> was a web application developed in 2021 for the Blackball league, allowing players to register and track their performance and ranking in real-time. Built with Laravel, PHP, Vue.js, Axios, and Lodash, it provided an interactive and structured experience for league management. Unfortunately, due to COVID-19, it was never launched.",
+                        "tags": ["Laravel", "PHP", "Vue.js", "Axios", "Lodash", "Sports", "League Management", "Responsive"]
+                    },
+                    "es": {
+                        "description": "<b>Lliga del Vallès</b> fue una aplicación web desarrollada en 2021 para la liga de Blackball, permitiendo a los jugadores registrarse y hacer un seguimiento de su rendimiento y clasificación en tiempo real. Construida con Laravel, PHP, Vue.js, Axios y Lodash, proporcionaba una experiencia interactiva y estructurada para la gestión de la liga. Lamentablemente, debido al COVID-19, nunca se llegó a lanzar.",
+                        "tags": ["Laravel", "PHP", "Vue.js", "Axios", "Lodash", "Deporte", "Gestión de Liga", "Responsive"]
+                    },
+                    "ca": {
+                        "description": "<b>Lliga del Vallès</b> va ser una aplicació web desenvolupada el 2021 per a la lliga de Blackball, permetent als jugadors registrar-se i fer un seguiment del seu rendiment i classificació en temps real. Construïda amb Laravel, PHP, Vue.js, Axios i Lodash, proporcionava una experiència interactiva i estructurada per a la gestió de la lliga. Malauradament, a causa de la COVID-19, mai es va arribar a llançar.",
+                        "tags": ["Laravel", "PHP", "Vue.js", "Axios", "Lodash", "Esport", "Gestió de Lliga", "Responsive"]
+                    }
+                }
+            }
+        ]
+    }
+}
