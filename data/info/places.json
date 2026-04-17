@@ -79,5 +79,23 @@
             "es": {"name": "Instituto Jaume Viladoms"},
             "ca": {"name": "Institut Jaume Viladoms"}
         }
-    }
+    },
+    "ioc": {
+        "logoUrl": "images/places/logo-ioc.png",
+        "faIcon": "fas fa-graduation-cap",
+        "locales": {
+            "en": { "name": "Institut Obert de Catalunya (IOC)" },
+            "es": { "name": "Institut Obert de Catalunya (IOC)" },
+            "ca": { "name": "Institut Obert de Catalunya (IOC)" }
+        }
+        },
+        "fcsd": {
+        "logoUrl": "images/places/logo-fcsd.png",
+        "faIcon": "fas fa-heart",
+        "locales": {
+            "en": { "name": "Fundació Catalana Síndrome de Down" },
+            "es": { "name": "Fundació Catalana Síndrome de Down" },
+            "ca": { "name": "Fundació Catalana Síndrome de Down" }
+        }
+        }
 }
