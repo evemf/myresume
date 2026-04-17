@@ -18,6 +18,25 @@
 
     "items": [
         {
+            "id": "cfgs_daw",
+            "place": "@link{places.ioc}",
+            "period": ["2024/09", "present"],
+            "locales": {
+                "en": {
+                    "title": "Higher Technical Vocational Training in Web Application Development (DAW)",
+                    "description": "Currently pursuing a Higher Technical Vocational Training in Web Application Development, aimed at formalizing and strengthening my professional experience in full-stack web development."
+                },
+                "es": {
+                    "title": "CFGS en Desarrollo de Aplicaciones Web (DAW)",
+                    "description": "Actualmente cursando un ciclo formativo de Grado Superior en Desarrollo de Aplicaciones Web, con el objetivo de respaldar y formalizar mi experiencia profesional en desarrollo web."
+                },
+                "ca": {
+                    "title": "CFGS en Desenvolupament d’Aplicacions Web (DAW)",
+                    "description": "Actualment cursant un cicle formatiu de Grau Superior en Desenvolupament d’Aplicacions Web, amb l’objectiu de donar suport i formalitzar la meva experiència professional en desenvolupament web."
+                }
+            }
+        },
+        {
             "id": "cfgs_telecomunicaciones",
             "place": "@link{places.castellarnau}",
             "period": ["2011/09", "2013/06"],
